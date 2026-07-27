@@ -1,81 +1,129 @@
 <h1 align="center">Hi 👋, I'm Bilal Ansar</h1>
 
 <h3 align="center">
-🚀 Full Stack MERN Developer | AI Chatbot & AI Agent Developer
+Full Stack MERN Developer • AI Chatbot & AI Agent Developer
 </h3>
 
 <p align="center">
-I build modern, scalable, and high-performance web applications using the MERN Stack and AI technologies.
+I build fast, scalable, and modern web applications using the MERN Stack and AI technologies.
 </p>
 
 <p align="center">
-<a href="https://bilalansarportfolio-webdeveloper.netlify.app/">🌐 Portfolio</a> •
-<a href="https://github.com/bilalnansar">GitHub</a>
+  <a href="https://github.com/bilalnansar">
+    <img src="https://img.shields.io/github/followers/bilalnansar?label=Followers&style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Full Stack MERN Developer
-- 🚀 3+ years of hands-on development experience
-- 🤖 Building AI Chatbots & AI Agents
-- 🌱 Currently learning advanced AI workflows and system design
-- 💬 Ask me about React, Next.js, Node.js, Express, MongoDB, AI, and REST APIs
+💼 Full Stack MERN Developer
 
----
+🚀 3+ years of experience building scalable web applications
 
-## 🚀 Tech Stack
+🤖 AI Chatbot & AI Agent Developer
 
-### Frontend
+🌱 Currently exploring advanced AI automation and modern web technologies
 
-![React](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap)
-
-### Backend
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,php)
-
-### Database
-
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
+🎯 Focused on clean code, performance, and user experience
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-⭐ Portfolio Website
+## Frontend
 
-🌐 https://bilalansarportfolio-webdeveloper.netlify.app/
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
 
-⭐ MERN Applications
+## Backend
 
-- E-Commerce
-- Admin Dashboard
-- Business Website
-- AI Chatbot
-- AI Agent
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-(Add your GitHub project links here.)
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI Skills
 
-![](https://github-readme-stats.vercel.app/api?username=bilalnansar&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bilalnansar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalnansar&layout=compact&theme=tokyonight)
+- AI Chatbots
+- AI Agents
+- OpenAI API Integration
+- Workflow Automation
+- REST APIs
 
 ---
 
-## 🌍 Connect With Me
+# 🌐 Portfolio
 
-🌐 Portfolio
+🔗 https://bilalansarportfolio-webdeveloper.netlify.app/
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalnansar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalnansar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalnansar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💼 Services
+
+✅ Full Stack MERN Development
+
+✅ React.js & Next.js Applications
+
+✅ Node.js & Express APIs
+
+✅ MongoDB & MySQL
+
+✅ AI Chatbots & AI Agents
+
+✅ Third-Party API Integration
+
+✅ Payment Gateway Integration
+
+✅ Performance Optimization
+
+---
+
+# 📌 Current Goals
+
+- Learn advanced AI workflows
+- Build more open-source projects
+- Contribute to the developer community
+
+---
+
+# 📫 Connect With Me
+
+🌍 Portfolio
 
 https://bilalansarportfolio-webdeveloper.netlify.app/
 
@@ -85,8 +133,6 @@ https://github.com/bilalnansar
 
 ---
 
-## 💡 Quote
-
-> "Building software that solves real business problems."
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
