@@ -1,37 +1,42 @@
 <h1 align="center">Hi 👋, I'm Bilal Ansar</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • AI Chatbot & AI Agent Developer
+🚀 Full Stack MERN Developer | 🤖 AI Chatbot & AI Agent Developer
 </h3>
 
 <p align="center">
-I build fast, scalable, and modern web applications using the MERN Stack and AI technologies.
+I build modern, scalable, and user-focused web applications using MERN Stack, Next.js, and AI technologies.
 </p>
 
 <p align="center">
-  <a href="https://github.com/bilalnansar">
-    <img src="https://img.shields.io/github/followers/bilalnansar?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge">
+<a href="https://bilalansarportfolio-webdeveloper.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge"/>
+</a>
+<a href="https://github.com/bilalnansar">
+<img src="https://img.shields.io/github/followers/bilalnansar?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-💼 Full Stack MERN Developer
+I'm **Bilal Ansar**, a **Full Stack MERN Developer** with **3+ years of hands-on experience** building responsive, scalable, and high-performance web applications.
 
-🚀 3+ years of experience building scalable web applications
+I help businesses, startups, and individuals transform ideas into reliable digital products with clean code, modern UI, and powerful backend systems.
 
-🤖 AI Chatbot & AI Agent Developer
+My focus areas:
 
-🌱 Currently exploring advanced AI automation and modern web technologies
-
-🎯 Focused on clean code, performance, and user experience
+* 🚀 Full Stack MERN Applications
+* ⚛️ React.js & Next.js Development
+* 🔥 Node.js & Express Backend Systems
+* 🗄️ MongoDB & MySQL Database Solutions
+* 🤖 AI Chatbots & AI Agents
+* 🔗 API Development & Integrations
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 ## Frontend
 
@@ -45,13 +50,13 @@ I build fast, scalable, and modern web applications using the MERN Stack and AI 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-## Database
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## Tools
+## Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
@@ -59,80 +64,125 @@ I build fast, scalable, and modern web applications using the MERN Stack and AI 
 
 ---
 
-# 🤖 AI Skills
+# 🤖 AI & Automation Skills
 
-- AI Chatbots
-- AI Agents
-- OpenAI API Integration
-- Workflow Automation
-- REST APIs
-
----
-
-# 🌐 Portfolio
-
-🔗 https://bilalansarportfolio-webdeveloper.netlify.app/
+* AI Chatbot Development
+* AI Agent Development
+* OpenAI API Integration
+* Workflow Automation
+* Intelligent Web Applications
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+## 🌐 Portfolio Website
+
+My personal developer portfolio showcasing my skills, experience, and services.
+
+🔗 Live Demo:
+https://bilalansarportfolio-webdeveloper.netlify.app/
+
+---
+
+## 🛒 MERN E-Commerce Platform
+
+A complete full-stack e-commerce application.
+
+**Features:**
+
+* User authentication
+* Product management
+* Shopping cart
+* Orders system
+* Admin dashboard
+
+**Tech:**
+React.js • Node.js • Express.js • MongoDB
+
+---
+
+## 🤖 AI Chatbot Application
+
+An intelligent chatbot powered by modern AI technologies.
+
+**Features:**
+
+* AI conversations
+* API integration
+* User-friendly interface
+* Scalable backend
+
+**Tech:**
+React.js • Node.js • OpenAI API
+
+---
+
+## 📊 Admin Dashboard
+
+A responsive dashboard application with data management features.
+
+**Features:**
+
+* Analytics
+* CRUD operations
+* User management
+* Responsive design
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalnansar&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bilalnansar&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalnansar&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalnansar&layout=compact&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalnansar&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalnansar&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 💼 Services
+# 💼 Services I Provide
 
-✅ Full Stack MERN Development
-
-✅ React.js & Next.js Applications
-
-✅ Node.js & Express APIs
-
-✅ MongoDB & MySQL
-
+✅ Full Stack Web Development
+✅ MERN Stack Applications
+✅ React & Next.js Websites
+✅ REST API Development
+✅ Database Design
 ✅ AI Chatbots & AI Agents
-
-✅ Third-Party API Integration
-
-✅ Payment Gateway Integration
-
-✅ Performance Optimization
+✅ Business Websites
+✅ E-Commerce Platforms
+✅ Bug Fixing & Optimization
 
 ---
 
-# 📌 Current Goals
+# 🌱 Currently Improving
 
-- Learn advanced AI workflows
-- Build more open-source projects
-- Contribute to the developer community
+* Advanced Next.js Development
+* AI Agent Systems
+* Cloud Deployment
+* Software Architecture
+* Open Source Contribution
 
 ---
 
 # 📫 Connect With Me
 
-🌍 Portfolio
-
+🌐 Portfolio:
 https://bilalansarportfolio-webdeveloper.netlify.app/
 
-🐙 GitHub
-
+🐙 GitHub:
 https://github.com/bilalnansar
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<h3 align="center">
+⭐ Building digital products that solve real-world problems.
+</h3>
