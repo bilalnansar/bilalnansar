@@ -20,33 +20,22 @@ Building scalable web applications with React, Next.js, Node.js & AI
 
 </p>
 
----
+# 👨‍💻 About Me
 
-# 💫 About Me
+Hi 👋, I'm **Bilal Ansar**, a **Full Stack MERN Developer** with **3+ years of experience** building modern, scalable, and user-friendly web applications.
 
-```javascript
-const bilal = {
-    role: "Full Stack MERN Developer",
-    experience: "3+ Years",
-    location: "Pakistan",
-    expertise: [
-        "React.js",
-        "Next.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "MySQL",
-        "AI Chatbots",
-        "AI Agents"
-    ],
-    currentlyLearning: [
-        "Advanced AI",
-        "System Design",
-        "Cloud Deployment"
-    ],
-    availableForWork: true
-}
-```
+I specialize in creating complete digital solutions using **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, and AI technologies**.
+
+🚀 I build:
+- Full Stack MERN Applications
+- Responsive Web Interfaces
+- REST APIs
+- AI Chatbots & AI Agents
+- Business & E-Commerce Solutions
+
+I love solving real-world problems through clean code, modern technologies, and innovative solutions.
+
+💡 **Building scalable products that create real impact.**
 
 ---
 
