@@ -295,13 +295,30 @@ Business dashboard with:
 
 # 🐍 Contribution Snake
 
+name: Generate Snake
 
-<p align="center">
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-<img src="https://raw.githubusercontent.com/bilalnansar/bilalnansar/output/github-contribution-grid-snake.svg"/>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-</p>
-
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
