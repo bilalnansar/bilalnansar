@@ -291,13 +291,13 @@ Business dashboard with:
 </p>
 
 
----
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/john123/john123/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
+<img src="https://github.com/Hamid-Javed/Hamid-Javed/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
